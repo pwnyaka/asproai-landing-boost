@@ -30,7 +30,7 @@ const CTASection = () => {
       setIsSubmitted(true);
       toast({
         title: "Спасибо за регистрацию!",
-        description: "Мы добавили вас в лист ожидания Aspro.AI. Ожидайте новости!",
+        description: "Мы добавили вас в лист ожидания Аспро.ИИ. Ожидайте новости!",
       });
     }
   };
@@ -70,7 +70,7 @@ const CTASection = () => {
           </h2>
           
           <p className="text-xl md:text-2xl mb-8 opacity-90 max-w-3xl mx-auto">
-            Станьте одной из первых 500 компаний, получивших ранний доступ к Aspro.AI
+            Станьте одной из первых 500 компаний, получивших ранний доступ к Аспро.ИИ
           </p>
           
           <div className="grid md:grid-cols-3 gap-6 mb-12 max-w-3xl mx-auto">
@@ -115,7 +115,7 @@ const CTASection = () => {
               </div>
               
               <p className="text-sm text-white/70 mt-4">
-                Регистрируясь, вы соглашаетесь получать обновления о развитии Aspro.AI
+                Регистрируясь, вы соглашаетесь получать обновления о развитии Аспро.ИИ
               </p>
             </div>
           </form>

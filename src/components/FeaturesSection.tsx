@@ -47,7 +47,7 @@ const FeaturesSection = () => {
           <h2 className="text-4xl md:text-5xl font-bold mb-6 text-foreground">
             Ключевые преимущества
             <span className="block text-transparent bg-clip-text bg-gradient-primary">
-              Aspro.AI
+              Аспро.ИИ
             </span>
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">

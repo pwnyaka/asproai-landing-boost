@@ -10,10 +10,10 @@ const Footer = () => {
               <div className="w-8 h-8 bg-gradient-primary rounded-lg flex items-center justify-center">
                 <span className="text-white font-bold text-sm">AI</span>
               </div>
-              <span className="text-xl font-bold text-card-foreground">Aspro.AI</span>
+              <span className="text-xl font-bold text-card-foreground">Аспро.ИИ</span>
             </div>
             <p className="text-muted-foreground mb-6 max-w-md">
-              Корпоративное ИИ-решение для малого и среднего бизнеса от экосистемы Aspro.Cloud. 
+              Корпоративное ИИ-решение для малого и среднего бизнеса от экосистемы Аспро.Cloud. 
               Простое внедрение, гибкая оплата, мгновенные результаты.
             </p>
             <div className="flex items-center space-x-4">
@@ -23,7 +23,7 @@ const Footer = () => {
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-primary transition-colors"
               >
-                Aspro.Cloud
+                Аспро.Cloud
               </a>
               <span className="text-muted-foreground">|</span>
               <span className="text-muted-foreground">Часть экосистемы Aspro</span>
@@ -76,9 +76,9 @@ const Footer = () => {
         </div>
         
         <div className="border-t border-border mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
-          <p className="text-muted-foreground text-sm">
-            © 2024 Aspro.AI. Все права защищены.
-          </p>
+            <p className="text-muted-foreground text-sm">
+              © 2024 Аспро.ИИ. Все права защищены.
+            </p>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <a href="/privacy" className="text-muted-foreground hover:text-primary transition-colors text-sm">
               Политика конфиденциальности

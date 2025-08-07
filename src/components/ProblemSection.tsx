@@ -71,7 +71,7 @@ const ProblemSection = () => {
         <div className="text-center mt-16">
           <div className="bg-gradient-card rounded-2xl p-8 max-w-4xl mx-auto border border-primary/20">
             <h3 className="text-2xl font-bold mb-4 text-foreground">
-              Aspro.AI решает все эти проблемы
+              Аспро.ИИ решает все эти проблемы
             </h3>
             <p className="text-lg text-muted-foreground">
               Единая платформа для простого, доступного и эффективного внедрения ИИ в ваш бизнес

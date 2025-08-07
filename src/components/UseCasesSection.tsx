@@ -57,7 +57,7 @@ const UseCasesSection = () => {
             </span>
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            Реальные случаи использования Aspro.AI для решения бизнес-задач
+            Реальные случаи использования Аспро.ИИ для решения бизнес-задач
           </p>
         </div>
         
@@ -107,7 +107,7 @@ const UseCasesSection = () => {
               Не нашли свой случай?
             </h3>
             <p className="text-lg text-muted-foreground mb-6">
-              Aspro.AI адаптируется под любые бизнес-процессы. Напишите нам, и мы поможем найти оптимальное решение.
+              Аспро.ИИ адаптируется под любые бизнес-процессы. Напишите нам, и мы поможем найти оптимальное решение.
             </p>
             <button className="bg-gradient-cta text-white px-8 py-3 rounded-xl font-semibold hover:shadow-button transition-all duration-300 transform hover:scale-105">
               Обсудить ваш случай

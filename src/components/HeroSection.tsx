@@ -10,17 +10,16 @@ const HeroSection = () => {
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     if (email) {
-      toast({
-        title: "Спасибо за регистрацию!",
-        description: "Мы свяжемся с вами, как только Aspro.AI будет готов.",
-      });
+        toast({
+          title: "Спасибо за регистрацию!",
+          description: "Мы свяжемся с вами, как только Аспро.ИИ будет готов.",
+        });
       setEmail("");
     }
   };
 
   return (
     <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
-      <div className="absolute inset-0 bg-gradient-hero opacity-90" />
       <div className="absolute inset-0">
         <img 
           src={heroImage} 
@@ -28,6 +27,8 @@ const HeroSection = () => {
           className="w-full h-full object-cover"
         />
       </div>
+      <div className="absolute inset-0 bg-gradient-to-br from-black/70 via-black/50 to-black/70" />
+      <div className="absolute inset-0 bg-gradient-hero opacity-60" />
       
       <div className="relative z-10 container mx-auto px-4 text-center text-white">
         <div className="max-w-4xl mx-auto">
