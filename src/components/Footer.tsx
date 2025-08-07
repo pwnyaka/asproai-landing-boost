@@ -26,7 +26,7 @@ const Footer = () => {
                 Аспро.Cloud
               </a>
               <span className="text-muted-foreground">|</span>
-              <span className="text-muted-foreground">Часть экосистемы Aspro</span>
+              <span className="text-muted-foreground">Часть экосистемы Аспро</span>
             </div>
           </div>
           
@@ -69,7 +69,7 @@ const Footer = () => {
               </li>
               <li className="flex items-center space-x-2 text-muted-foreground">
                 <MapPin className="w-4 h-4" />
-                <span>Москва, Россия</span>
+                <span>Россия</span>
               </li>
             </ul>
           </div>
@@ -77,7 +77,7 @@ const Footer = () => {
         
         <div className="border-t border-border mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
             <p className="text-muted-foreground text-sm">
-              © 2024 Аспро.ИИ. Все права защищены.
+              © 2025 Аспро. Все права защищены.
             </p>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <a href="/privacy" className="text-muted-foreground hover:text-primary transition-colors text-sm">
