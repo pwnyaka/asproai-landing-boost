@@ -28,4 +28,4 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./build # или ./dist, в зависимости от того, куда собирается ваш проект
+          publish_dir: ./dist # или ./build, в зависимости от того, куда собирается ваш проект
